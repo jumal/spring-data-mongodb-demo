@@ -1,6 +1,6 @@
 # Spring Data MongoDB Demo
 [![Build Status](https://travis-ci.org/jumal/spring-data-mongodb-demo.svg?branch=master)](https://travis-ci.org/jumal/spring-data-mongodb-demo)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+[![License](https://img.shields.io/badge/license-Apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 Includes example tests using
 * *NoSQLUnit* (https://github.com/lordofthejars/nosql-unit)
